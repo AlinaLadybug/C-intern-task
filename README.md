@@ -11,3 +11,5 @@ Meanings of SQL Statements:
 * _OrdersInfo_ - gets information from 3 tables(inner join)
 * _SoldToys_ - gets information about sold toys, and shows count of sold toys
 * _CustomersExpenses_  gets info about purchases of customers in descending order.
+
+Launch with _dotnet run_ in /PL directory.
